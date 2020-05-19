@@ -1,0 +1,48 @@
+item {
+    id: 1
+    name: 'brakett 1'
+}
+item {
+    id: 2
+    name: 'brakett 2'
+}
+item {
+    id: 3
+    name: 'wago 3'
+}
+item {
+    id: 4
+    name: 'wago 5'
+}
+item {
+    id: 5
+    name: 'skrue 30mm'
+}
+item {
+    id: 6
+    name: 'skrue 20mm'
+}
+item {
+    id: 7
+    name: 'skive'
+}
+item {
+    id: 8
+    name: 'radiatormåler'
+}
+item {
+    id: 9
+    name: 'vater'
+}
+item {
+    id: 10
+    name: 'energimåler'
+}
+item {
+    id: 11
+    name: 'Vannmåler'
+}
+item {
+    id: 12
+    name: 'Digital telleverk'
+}
